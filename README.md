@@ -5,6 +5,6 @@ El objetivo de este proyecto es obtener insights para un mejor entendimiento sob
 
 ## 🗄️ Origen de los Datos
 El dataset utilizado para este proyecto es de dominio público y fue extraído de Kaggle. Fuente original: [Spotify Tracks Dataset](https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset).
-Cabe destacar que elegí un conjunto de datos ya limpio para poder enforcarme en el análisis exploratorio
+
 
 ## 🛠️ Stack Tecnológico
