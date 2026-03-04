@@ -5,4 +5,4 @@ El objetivo de este proyecto es obtener insights para un mejor entendimiento sob
 
 ## 🛠️ Origen de los Datos y Stack Tecnológico
 El dataset utilizado para este proyecto es de dominio público y fue extraído de Kaggle. Fuente original: [Spotify Tracks Dataset](https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset).
-Para el almacenamiento y consulta de los datos utilicé PostgreSQL mientras que para la visualización utilicé Power BI
+Para el almacenamiento y consulta de los datos utilicé **PostgreSQL** mientras que para la visualización utilicé **Power BI**
